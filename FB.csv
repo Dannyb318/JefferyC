@@ -1,0 +1,390 @@
+2017,Maverick,Wolfley,3,0.8510,75,225, WV,Morgantown, Morgantown
+2017,Ben,Miles,3,0.8393,73,210, LA,Baton Rouge, Catholic
+2017,Tory,Carter,3,0.8388,74,255, GA,Leesburg, Lee County
+2017,Chase,Lasater,3,0.8307,74,238, FL,Jacksonville, Trinity Christian Academy
+2017,Hekili,Keliiliki,3,0.8306,74,225, AR,Bentonville, Bentonville
+2017,Ahmir,Lee,3,0.8300,72,230, GA,Atlanta, Mount Vernon Presbyterian
+2017,Hunter,Moreno,2,0.7733,74,225, FL,Miami, Columbus
+2017,Kesean,Gamble,2,0.7711,73,230, OH,Cincinnati, Cincinnati Hills Christian Academy
+2017,Quinton,Mcquillan,2,0.7667,0,-, KS,Lansing, Lansing
+2017,Ahmir,Lee,2,0.7667,71,230, GA,Atlanta, Mount Vernon Presbyterian
+2017,Michael,Parrott,2,0.7667,71,240, NC,Canton, Pisgah
+2016,Kingston,Davis,3,0.8543,73,225, AL,Prattville, Prattville
+2016,Tre,Nation,3,0.8422,72,220, AL,Leeds, Leeds 
+2016,Bailey,McElwain,3,0.8334,72,231, AL,Trussville, Hewitt-Trussville
+2016,Jalen,Starks,3,0.8305,73,240, CA,Encino, Crespi
+2016,Tyler,Natee,3,0.8265,71,258, TX,Euless, Trinity
+2016,Rashaad,Boddie,3,0.8254,72,215, WA,Sammamish, Skyline
+2016,Cody,Mitchell,3,0.8111,75,225, WV,Point Pleasant, Point Pleasant
+2016,Ladarrius,Thomas,3,0.7991,74,220, LA,Monroe, Wossman
+2016,Luke,Termin,2,0.7854,73,231, TX,Rockwall, Rockwall
+2016,Willie,Ross,2,0.7716,74,245, OH,Ravenna, Ravenna
+2016,Justin,Walker,2,0.7667,72,215, ID,Eagle, Eagle
+2016,August,Cook,2,0.7667,75,220, PA,Bedford, Bedford
+2016,Makai,Manuwai,2,0.7667,73,255, OR,Medford, South Medford
+2016,Francoise,Sims,2,0.7667,72,230, CA,San Diego, St Augustine
+2016,Kevin,Dove,2,0.7631,72,230, TX,El Campo, El Campo
+2016,Connor,Mohs,2,0.7497,73,225, MN,Saint Paul, East Ridge
+2015,David,Ducre,4,0.9156,71,238, LA,Mandeville, Lakeshore
+2015,Chandler,Cox,4,0.8912,72,222, FL,Apopka, Apopka
+2015,Reagan,Williams,3,0.8527,75,232, OH,Jackson, Jackson
+2015,Richard,Worship,3,0.8438,73,235, OH,Cleveland, Valley Forge
+2015,Houston,Heimuli,3,0.8258,71,220, UT,Bountiful, Bountiful
+2015,Taylor,Boose,3,0.8236,72,200, VA,Clifton, Centreville
+2015,Keekee,Johnson,3,0.8199,69,236, TX,Bryan, Bryan
+2015,Kal-El,Williams,3,0.8088,72,240, FL,Largo, Pinellas Park
+2015,Willie,Jordan,3,0.8039,73,208, GA,Warner Robins, Northside
+2015,Colton,Beebe,3,0.7996,75,252, KS,Kansas City, Piper
+2015,Keyonte,Holley,2,0.7843,71,240, FL,Wauchula, Hardee
+2015,Jaylon,Watson,2,0.7723,74,230, OK,Broken Bow, Broken Bow
+2015,Joey,Wood,2,0.7667,71,220, CA,Los Gatos, Los Gatos
+2015,Halen,Steward,2,0.7581,70,246, FL,Saint Augustine, Pedro Menendez
+2015,Jace,Malek,2,0.7481,75,240, WA,Spokane, West Valley
+2015,Joe,Tupta,2,0.7397,73,256, OH,Stow, Walsh Jesuit
+2015,Nick,Jensen,1,0.6997,73,220, MN,Sartell, Sartell Senior
+2015,Luke,Sellers,1,0.6997,73,244, NE,Papillion, Papillion-La Vista South
+2014,Gerald,Owens,3,0.8825,73,245, NJ,Westville, West Deptford
+2014,Daniel,Gresham,3,0.8662,69,236, TX,Fort Worth, All Saints Episcopal
+2014,LJ,Scott,3,0.8634,70,210, OH,Marion, Harding
+2014,Sione,Takitaki,3,0.8509,74,240, CA,Brentwood, Heritage
+2014,Daniel,Marx,3,0.8307,75,238, CA,Mission Viejo, Mission Viejo
+2014,Jacob,Kraut,3,0.8290,71,240, FL,Neptune Beach, Duncan U. Fletcher
+2014,Antonio,Simmons,3,0.8247,76,210, FL,Callahan, University Christian
+2014,Winston,Dimel,3,0.8215,72,215, KS,Manhattan, Manhattan
+2014,Jaylen,Samuels,3,0.8185,72,225, NC,Charlotte, Mallard Creek
+2014,Ula,Tolutau,3,0.8138,73,230, UT,Salt Lake City, East
+2014,Josh,Harlan,2,0.7838,72,200, SC,Columbia, Spring Valley
+2014,Sloan,Spiller,2,0.7783,73,235, TX,Katy, Katy
+2014,Boadie,Matts,2,0.7724,72,232, FL,Jacksonville, Sandalwood
+2014,Daythan,Davis,2,0.7609,73,220, TX,Aledo, Aledo
+2014,Desmond,Pittman,2,0.7598,70,235, TN,Ooltewah, Ooltewah
+2014,Tanner,Hughes,2,0.7542,73,215, CA,El Dorado Hills, Oak Ridge
+2014,Tyler,Bray,2,0.7498,72,190, NC,Belmont, South Point
+2014,Garian,Bradley,2,0.7498,72,235, AL,McCalla, McAdory
+2014,Thomas,Middleton,2,0.7442,72,210, TX,Cedar Park, Cedar Park
+2014,Roverters,Barron,2,0.7398,72,240, AL,Mobile, Vigor
+2014,Gunnar,Scholato,2,0.7398,74,220, TN,Hendersonville, Pope John Paul II
+2014,Brandon,Sullivan,2,0.7381,73,230, GA,Lilburn, Parkview
+2014,Tyler,Carver,2,0.7331,72,230, TX,Frisco, Wakeland
+2014,Devin,Bisby,1,0.6997,70,210, TX,Portland, Gregory-Portland
+2014,Spencer,Brien,1,0.6997,72,208, TN,Gatlinburg, Gatlinburg Pittman
+2014,Diamonte,Hall,1,0.6997,71,215, NC,Lawndale, Burns
+2014,Trey,Paytas,1,0.6997,71,195, FL,Daytona Beach, Warner Christian Academy
+2014,Tyler,Coyne,1,0.6997,73,220, MN,Osseo, Maple Grove
+2014,Deion,Tidwell,1,0.6997,70,210, AR,North Little Rock, North Little Rock
+2014,Michael,Ivlow,1,0.6997,69,215, IL,Joliet, Joliet Catholic Academy
+2014,Raekwon,McClellan,1,0.6997,72,250, MS,Biloxi, Biloxi
+2014,Ronnie,Gardner,1,0.6997,72,235, VA,Chesapeake, Western Branch
+2014,Jacques,Batiste,1,0.6997,70,210, LA,New Orleans, St. Augustine
+2014,Josh,Burrell,1,0.6997,70,225, TX,Missouri City, Ridge Point
+2014,Zachary,Cato,1,0.6997,69,180, FL,Miami, Norland
+2014,Oscar,Mephors,1,0.6997,72,220, CA,Riverside, John W. North
+2014,Jacorrie,Riley,1,0.6997,69,190, FL,Largo, Largo
+2014,Joey,Kerle,1,0.6997,72,230, PA,Harrisburg, Bishop McDevitt
+2014,Kai,Barber,1,0.6997,70,220, MN,Minneapolis, Totino-Grace
+2014,Steven,Peoples,1,0.6997,71,210, VA,Galax, Galax
+2014,Cary,Sullivan,1,0.6997,71,208, OH,Dayton, Carroll
+2014,Greg,Echols,1,0.6997,70,213, LA,West Monroe, West Monroe
+2014,Aaron,Fischer,1,0.6997,71,230, WI,Sun Prairie, Sun Prairie
+2013,Wyatt,Shallman,4,0.8953,75,245, MI,Novi, Catholic Central
+2013,Kennard,Swanson,3,0.8512,72,245, FL,Lakeland, Lake Gibson
+2013,Chris,Hall,3,0.8143,72,235, OK,Tulsa, Union
+2013,Elijah,Wellman,3,0.8098,75,235, WV,Huntington, Spring Valley
+2013,Josh,Anderson,3,0.8067,71,230, GA,Douglasville, South Paulding
+2013,Brendan,Douglas,3,0.7986,70,210, GA,Augusta, Aquinas
+2013,Grant,Niemiec,2,0.7932,72,220, MI,West Bloomfield, St. Mary's
+2013,Riley,Arvanitis,2,0.7889,72,245, IN,Saint John, Lake Central
+2013,Fred,Scott,2,0.7843,72,225, TX,Kennedale, Kennedale
+2013,Tre,Allen,2,0.7817,72,235, TX,Tyler, Longview
+2013,Tre,Allen,2,0.7782,72,225, TX,Tyler, Chapel Hill
+2013,Jordan,Chunn,2,0.7782,72,211, AL,Gurley, Madison County
+2013,Darrin,Laufasa,2,0.7750,73,220, WA,Kirkland, Bothell
+2013,A.J.,Burdine,2,0.7732,75,245, OH,Cincinnati, Elder
+2013,Hezekiah,Randolph,2,0.7698,71,210, LA,Baton Rouge, Parkview Baptist School
+2013,Patrick,Palau,2,0.7683,71,240, UT,Salt Lake City, East
+2013,Daquan,Mack,2,0.7681,73,240, PA,Fairless Hills, Pennsbury 
+2013,Tueni,Lupeamanu,2,0.7531,73,235, UT,Herriman, Herriman
+2013,Joe,Schillace,2,0.7333,73,230, NY,Auburn, Auburn
+2013,William,Cortez,1,0.6997,72,225, FL,Homestead, South Dade
+2012,Ryan,McDaniel,4,0.8901,73,223, CA,Torrance, North High School
+2012,Quayvon,Hicks,3,0.8830,74,249, GA,Blackshear, Pierce County
+2012,Jahleel,Pinner,3,0.8802,71,225, CA,Mission Viejo, Mission Viejo
+2012,Davien,Payne,3,0.8782,71,214, CA,Perris, Citrus Hill
+2012,Christian,Powell,3,0.8644,72,240, CA,Upland, Upland
+2012,Sione,Houma,3,0.8613,73,215, UT,Salt Lake City, Highland
+2012,Ejay,Fatu,3,0.8521,71,233, TX,Spring, Klein Oak
+2012,E.J.,Junior,3,0.8188,72,210, OH,Middletown, Middletown
+2012,Rob,Dvoracek,3,0.8172,72,214, PA,Allentown, Parkland
+2012,Junior,Espitia,3,0.8146,75,200, OR,Salem, South Salem
+2012,Nick,Reed,2,0.7942,73,245, TX,Texarkana, Pleasant Grove
+2012,Virgil,Smalls,2,0.7832,70,260, SC,Goose Creek, Goose Creek 
+2012,Dee,Littlejohn,2,0.7698,72,215, NC,Lincolnton, Lincolnton
+2012,Brandon,Sturdivant,2,0.7667,74,218, SC,Fort Mill, Nation Ford
+2012,Drew,Stefanelli,2,0.7667,71,225, MD,Olney, Good Counsel
+2012,Reggie,Mackey,2,0.7550,72,240, NM,Deming, Deming
+2012,John,Waller,2,0.7431,73,185, MI,Muskegon, North Muskegon
+2012,Christian,Allen,2,0.7000,74,247, WV,Morgantown, Morgantown
+2012,John,Rizzo,2,0.7000,73,221, PA,Johnstown, Richland
+2011,Joe,Bergeron,3,0.8740,72,225, TX,Mesquite, North Mesquite
+2011,Hunter,Joyer,3,0.8637,71,245, FL,Tampa, Tampa Catholic
+2011,J.R.,Tavai,3,0.8528,74,260, CA,Manhattan Beach, Mira Costa
+2011,Trayion,Durham,3,0.8366,72,230, OH,Cincinnati, Colerain
+2011,Brandon,Wilds,3,0.8222,72,220, SC,Blythewood, Blythewood
+2011,Dezden,Petty,2,0.7748,72,213, CA,Carson, Carson Senior
+2011,Keenan,Noel,2,0.7682,72,230, IN,Columbus, Columbus North
+2011,Trevon,Pendleton,2,0.7667,0,-, OH,West Portsmouth, Portsmouth West
+2011,Joe,Kerridge,2,0.7667,72,230, MI,Traverse City, St. Francis
+2011,Brad,Shearin,2,0.7667,72,240, AR,Jonesboro, Jonesboro
+2011,Jacob,Baxter,2,0.7582,73,230, SC,Cayce, Brooklyn Cayce
+2011,Glenn,Gronkowski,2,0.7482,75,205, NY,Buffalo, Williamsville North
+2011,George,Maumau,2,0.7444,71,230, CO,Littleton, Valor Christian
+2011,Cody,Grice,2,0.7333,72,242, OH,Akron, Firestone
+2010,Alexander,Ogletree,5,0.9865,69,205, GA,Newnan, Newnan
+2010,Soma,Vainuku,3,0.8877,73,251, CA,Eureka, Eureka
+2010,Zach,Zwinak,3,0.8838,74,230, MD,Frederick, Linganore
+2010,Zach,Fogerson,3,0.8622,72,225, WA,Seattle, O Dea
+2010,Brandon,Worle,3,0.8622,73,227, GA,Lagrange, Troup County
+2010,Maurice,Hagens,3,0.8590,73,235, FL,Tampa, Tampa Bay Tech
+2010,Martez,Eastland,3,0.8576,72,235, GA,Ringgold, Ringgold
+2010,Reuben,Frank,3,0.8528,74,230, NY,Poughkeepsie, Poughkeepsie
+2010,Rahsaan,Moore,3,0.8448,74,230, MD,Upper Marlboro, Dr. Henry Wise
+2010,Logan,Winkles,3,0.8309,73,240, GA,Thomaston, Upson-Lee
+2010,Austin,Bailey,3,0.8111,72,238, MD,Hyattsville, DeMatha Catholic
+2010,Tamir,Turpin,3,0.7990,74,215, NJ,East Orange, East Orange Campus
+2010,Amari,Williams,2,0.7927,74,245, FL,Daytona Beach, Mainland
+2010,Tyler,Lombardo,2,0.7889,73,225, MI,Harrison Township, L'anse Creuse
+2010,Kadeem,Jones,2,0.7889,71,250, FL,Haines City, Haines City Senior
+2010,Niko,Palazeti,2,0.7889,72,230, MI,Grand Rapids, Catholic Central
+2010,Aaron,Armstrong,2,0.7667,72,225, WI,Neenah, Neenah
+2010,Jay,Prosch,2,0.7667,72,250, AL,Mobile, UMS-Wright Preparatory School
+2010,Ladarious,Phillips,2,0.7667,72,293, AL,Roanoke, Handley
+2010,Jay,Prosch,2,0.7667,75,245, AL,Mobile, UMS-Wright Preparatory School
+2009,Carlos,Hyde,4,0.9078,72,230, FL,Naples, Naples
+2009,Tyler,Gaffney,4,0.8955,71,215, CA,San Diego, Cathedral Catholic
+2009,Matt,Coffee,3,0.8875,71,210, FL,Fort Walton Beach, Fort Walton Beach
+2009,Dominique,Allen,3,0.8764,71,250, TN,Paris, Henry County
+2009,Taimi,Tutogi,3,0.8684,73,258, CA,Chula Vista, Chula Vista Senior
+2009,Adam,Homan,3,0.8653,74,238, OH,Coldwater, Coldwater
+2009,Marshall,Musil,3,0.8639,74,236, KS,La Crosse, LaCrosse
+2009,Jayson,Allmond,3,0.8622,73,260, CA,Bloomington, Bloomington
+2009,Mike,Marrow,3,0.8604,74,235, OH,Toledo, Central Catholic
+2009,Daniel,Drummond,3,0.8573,75,232, GA,Flowery Branch, Flowery Branch
+2009,Brad,Rogers,3,0.8559,70,215, OH,Toledo, Central Catholic
+2009,Zach,Boren,3,0.8559,72,252, OH,Pickerington, Pickerington Central
+2009,Greg,Fuller,3,0.8556,73,242, IL,Harvey, Thornton Township
+2009,William,Shumpert,3,0.8528,72,238, MS,Fulton, Itawamba Agricultural
+2009,C.J.,Zimmerer,3,0.8479,72,213, NE,Omaha, Daniel J Gross
+2009,Justin,Semmes,3,0.8479,74,222, MI,Muskegon, Orchard View
+2009,Simione,Vehikite,3,0.8399,73,243, HI,Kapolei, Kapolei
+2009,Tommy,Bohanon,3,0.8333,74,235, FL,North Fort Myers, North Fort Myers
+2009,Anthony,Heimuli,3,0.8333,71,229, UT,Orem, Mountain View
+2009,Alex,Singleton,3,0.8323,72,235, LA,Reserve, East St. John
+2009,Dimitrius,Carr-Watson,3,0.8208,73,200, IL,Chicago, Mount Carmel
+2009,Jake,Sinkovec,3,0.8111,76,230, IL,Mundelein, Carmel Catholic
+2009,Tim,Edmond,3,0.7986,71,229, OH,Cincinnati, La Salle
+2009,Scott,Covert,2,0.7889,74,245, IL,Lake Forest, Lake Forest
+2009,Drew,Stevens,2,0.7667,76,203, OH,Lewis Center, Olentangy
+2009,Nico,Price,2,0.7444,72,230, PA,Mckeesport, McKeesport
+2009,Brent,Michaels,2,0.7444,72,225, AZ,Lake Havasu City, Lake Havasu
+2008,Eric,Smith,4,0.9096,70,239, FL,Seffner, Armwood
+2008,Ryan,Roberson,4,0.8937,70,210, TX,Brenham, Brenham
+2008,Sausan,Shakerin,3,0.8795,75,210, UT,Sandy, Alta
+2008,Ben,Bartholomew,3,0.8479,74,251, TN,Nashville, Montgomery Bell Academy
+2008,Jonathan,Gimm,3,0.8354,75,240, TX,Houston, Westfield
+2008,Emerson,Herndon,3,0.8111,80,210, TX,Houston, Worthing
+2008,H.R.,Greer,3,0.8083,72,225, MS,Southaven, Southern Baptist Educ Center
+2008,Colby,Jackson,3,0.8003,74,225, GA,Dublin, Dublin
+2008,Kyle,Madden,3,0.7990,75,248, GA,Kennesaw, Harrison
+2008,Kasey,Stelly,2,0.7889,73,220, LA,Lafayette, St. Thomas More
+2008,Ja'Rodd,Watson,2,0.7802,74,250, CA,La Jolla, La Jolla
+2008,Chad,Littlejohn,2,0.7444,73,240, TX,Deer Park, Deer Park
+2008,Mike,Catapano,2,0.7444,75,234, NJ,Bayville, Central Regional
+2008,Ryan,Clarke,2,0.7222,72,230, MD,Hyattsville, DeMatha Catholic
+2007,Terence,Fells-Danzer,4,0.9000,73,250, VA,Culpeper, Culpeper County
+2007,Max,Milien,3,0.8778,72,210, VA,Arlington, Yorktown
+2007,Ryan,McCants,3,0.8778,74,230, CA,Corona, Santiago
+2007,Jeramie,Griffin,3,0.8733,72,230, MS,Batesville, South Panola
+2007,Quentin,Castille,3,0.8719,73,234, TX,La Porte, La Porte
+2007,Kevin,Cooper,3,0.8670,72,242, TN,Chattanooga, Baylor School
+2007,John,Douglas,3,0.8608,74,235, GA,Augusta, Aquinas
+2007,Vince,Helmuth,3,0.8542,73,235, MI,Saline, Saline
+2007,Henry,Hynoski,3,0.8497,73,235, PA,Catawissa, Southern Columbia
+2007,Steven,Foster,3,0.8448,75,230, KS,Sedgwick, Sedgwick
+2007,Ryan,Van Rensburg,3,0.8410,73,225, FL,Jacksonville, The Bolles School
+2007,William,Anderson,3,0.8333,72,220, MO,Saint Louis, Hazelwood East
+2007,Chad,Diehl,3,0.8260,74,265, SC,Duncan, Unknown
+2007,Devan,Johnson,3,0.8257,73,232, PA,Pittsburgh, Woodland Hills
+2007,Haroon,Brown,2,0.7924,71,240, VA,Hampton, Phoebus
+2007,Ben,Herlocker,2,0.7892,73,206, NC,Charlotte, Charlotte Catholic
+2007,Richard,Kelly,2,0.7889,72,243, FL,Bushnell, South Sumter
+2007,Taylor,Watson,2,0.7889,74,225, MD,Brandywine, Gwynn Park
+2007,Ethan,Stockett,2,0.7833,73,252, AR,Fort Smith, Southside
+2007,Owen,Marecic,2,0.7785,73,220, OR,Portland, Jesuit
+2007,Wesley,Hale,2,0.7667,72,222, TN,Morristown, Morristown West
+2007,Jared,Crank,2,0.7667,74,233, TX,Carrollton, American Heritage Academy
+2007,Muhammed,De'Reese,2,0.7667,73,209, FL,Titusville, Titusville
+2007,Antoine,Duplessis,2,0.7222,74,260, LA,New Orleans, Holy Cross
+2007,Ian,Reeves,2,0.7222,74,220, MI,Ferndale, Ferndale
+2007,Jermaine,Robertson,2,0.7000,71,227, AL,Tuscaloosa, Northridge
+2006,Luke,Schmidt,4,0.9246,75,230, IN,Jasper, Jasper
+2006,Aram,Olson,4,0.9146,73,240, SC,Columbia, Irmo
+2006,Brandon,King,4,0.8938,74,240, PA,Doylestown, Central Bucks West
+2006,Brandon,Minor,3,0.8875,72,213, VA,Richmond, Varina
+2006,Chane,Moline,3,0.8764,73,240, CA,Mission Viejo, Mission Viejo
+2006,Toby,Gerhart,3,0.8701,73,228, CA,Norco, Norco
+2006,Stanley,Havili,3,0.8656,72,208, UT,Salt Lake City, Cottonwood
+2006,Shaun,Chapas,3,0.8639,74,240, FL,Jacksonville, The Bolles School
+2006,Earl,Mitchell,3,0.8622,75,251, TX,Houston, North Shore
+2006,Clark,Gaston,3,0.8573,75,238, TN,Ooltewah, Ooltewah
+2006,Seddrick,Holloway,3,0.8542,70,235, FL,Tallahassee, Lincoln
+2006,R.J.,Garrett,3,0.8479,71,220, CA,Los Angeles, Crenshaw
+2006,Derrick,Davis,3,0.8448,71,215, MS,Meridian, Meridian
+2006,Devven,Sutton,3,0.8257,72,239, NC,Elizabeth City, Northeastern
+2006,Anthony,Davis,3,0.8097,70,235, MD,Olney, Good Counsel
+2006,Reggie,Hicks,3,0.8052,74,220, MS,Madison, Madison Central
+2006,Trevor,Bray,2,0.7896,71,228, VA,Chesapeake, Greenbrier Christian Academy
+2006,Ryan,Southworth,2,0.7889,70,223, TX,Paris, Paris
+2006,Chris,Ivory,2,0.7705,71,190, TX,Longview, Longview
+2006,Darius,Lewis,2,0.7667,71,225, OH,Ironton, Ironton
+2006,Danny,McNeal,2,0.7375,72,230, AR,Osceola, Osceola
+2006,Cam,Bramer,2,0.7222,72,200, MI,Olivet, Olivet
+2006,David,Muniz,2,0.7000,71,201, FL,Longwood, Lyman
+2005,Kalvin,Bailey,4,0.9614,71,245, FL,Seffner, Armwood
+2005,Jorvorskie,Lane,4,0.9000,73,240, TX,Lufkin, Lufkin
+2005,Steven,Korte,4,0.9000,74,230, LA,Mandeville, Fontainebleau
+2005,Conredge,Collins,4,0.9000,71,220, FL,Opa Locka, Monsignor Pace
+2005,Michael,Houston,3,0.8778,72,220, CO,Denver, Montbello
+2005,Matt,Clapp,3,0.8778,74,232, AZ,Phoenix, Paradise Valley
+2005,Rashawn,Jackson,3,0.8778,74,250, NJ,Jersey City, St. Peters Prep
+2005,Ernest,Williams,3,0.8556,73,260, PA,Monessen, Monessen
+2005,Kevin,Harris,3,0.8333,73,210, FL,Sanford, Seminole
+2005,Kenneth,Jefferson,3,0.8333,72,230, MD,Hyattsville, DeMatha Catholic
+2005,Jake,Behrens,3,0.8333,73,219, NE,Omaha, Millard North
+2005,George,Hypolite,3,0.8333,74,255, CA,Los Angeles, Loyola
+2005,Pat,Roxas,3,0.8333,72,240, CA,Orange, Orange Lutheran
+2005,Mark,Paschal,3,0.8333,73,221, NC,Charlotte, Charlotte Latin School
+2005,Jerrell,Mabry,3,0.8111,72,255, GA,Columbus, Shaw
+2005,Asaph,Schwapp,3,0.8111,72,247, CT,Hartford, Weaver
+2005,P.J.,Hill,3,0.8111,71,220, NY,Brooklyn, Poly Prep
+2005,Antonio,Turner,2,0.7889,73,220, FL,Orlando, Edgewater
+2005,Chris,Clancy,2,0.7889,75,220, IL,Joliet, Joliet Catholic Academy
+2005,Scooter,Berry,2,0.7889,75,245, NY,North Babylon, North Babylon
+2005,Jayson,White,2,0.7667,74,220, PA,Erie, McDowell
+2005,Mario,Cox,2,0.7667,71,217, CA,Oakland, McClymonds
+2005,Ahmad,Mayo,2,0.7667,70,215, GA,Griffin, Griffin
+2005,Greg,Genho,2,0.7667,75,210, CO,Brush, Brush
+2005,Nick,Thurston,2,0.7667,72,228, CA,Fresno, Edison
+2005,Mike,Washington,2,0.7667,72,214, TX,Houston, St Pius X
+2005,Nick,Starcevic,2,0.7444,74,210, NC,Charlotte, Charlotte Catholic
+2005,Brandon,Hart,2,0.7222,72,245, GA,Lagrange, Troup County
+2005,John,Jacobs,2,0.7222,75,219, VA,Broadway, Broadway
+2005,Frank,Padilla,2,0.7000,72,240, CA,Clovis, Clovis East
+2004,Dwayne,Jones,4,0.9763,73,233, NJ,Lakewood, Lakewood
+2004,Peyton,Hillis,4,0.9343,74,245, AR,Conway, Conway
+2004,Brannan,Southerland,4,0.9000,74,220, GA,Norcross, Greater Atlanta Christian School
+2004,David,Holbert,4,0.9000,73,237, TN,Brentwood, Brentwood Academy
+2004,Matt,Hahn,3,0.8778,73,210, NY,Long Island City, St. Anthony's
+2004,Dan,Lawlor,3,0.8556,75,235, PA,Mechanicsburg, Cumberland Valley
+2004,Jerod,Arlich,3,0.8556,76,240, MN,Saint Paul, Mahtomedi Senior
+2004,Mike,Jones,3,0.8556,73,225, OR,Portland, Jesuit
+2004,Jordan,Dizon,3,0.8556,73,210, HI,Waimea, Waimea
+2004,Roger,Allison,3,0.8556,74,230, MI,Lake Orion, Lake Orion Community
+2004,Danny,Ware,3,0.8333,73,210, VA,Chatham, Hargrave Military Academy
+2004,Brock,Bolen,3,0.8333,72,230, OH,Germantown, Valley View
+2004,Keith,Willis,3,0.8333,74,240, MA,Westwood, Xaverian Brothers
+2004,Mike,Cox,3,0.8111,74,248, PA,Lewisberry, Red Land
+2004,Chris,Pressley,3,0.8111,73,264, NJ,Woodbury, Woodbury
+2004,Jacob,Hester,3,0.8111,70,234, LA,Shreveport, Evangel Christian Academy
+2004,Joe,Surratt,3,0.8111,73,255, FL,Milton, Pace
+2004,Andrew,McKinney,2,0.7889,75,230, TX,Decatur, Decatur
+2004,Cole,Mason,2,0.7889,73,230, AL,Parrish, Parrish Sch
+2004,Nick,DeBartolo,2,0.7667,72,230, PA,Pittsburgh, Upper Saint Clair
+2004,Weston,Dacus,2,0.7667,74,225, AR,Searcy, Searcy
+2004,Tony,Fiammetta,2,0.7667,73,218, MD,Walkersville, Walkersville
+2004,Evan,Brownie,2,0.7667,75,226, MI,Petoskey, Petoskey
+2004,Brad,Bury,2,0.7667,72,240, OH,Marion, Harding
+2004,Harold,Taylor,2,0.7667,72,210, TX,Houston, Smiley
+2004,Clint,Jones,2,0.7667,72,220, TX,Mesquite, North Mesquite
+2004,Chad,Henley,2,0.7667,73,250, CA,Moorpark, Moorpark
+2004,Sione,Tavake,2,0.7667,71,270, CA,San Mateo, San Mateo
+2004,Frank,Summers,2,0.7667,71,230, CA,Oakland, Skyline
+2004,Nolan,Hughey,2,0.7667,72,210, AL,Birmingham, Vestavia Hills
+2004,Jared,Spivey,2,0.7556,75,210, GA,Savannah, Benedictine Military School
+2004,Luke,Kravitz,2,0.7444,73,210, WA,Olympia, Olympia
+2004,Joe,Coniglio,2,0.7444,74,220, IL,Rockford, Boylan Central Catholic
+2004,Rashad,Jennings,2,0.7444,74,240, VA,Lynchburg, Liberty Christian Academy
+2004,Matt,Forte,2,0.7444,73,220, LA,Slidell, Slidell
+2004,Brett,Alstatt,2,0.7444,76,220, KS,Hays, Hays
+2004,Joe,McDaniel,2,0.7444,72,215, PA,Pittsburgh, Woodland Hills
+2004,David,Whittington,2,0.7222,74,240, LA,Lafayette, St. Thomas More
+2004,Matt,Deese,2,0.7222,71,245, NC,Mcleansville, Northeast Guilford
+2004,John,Johnson,2,0.7222,74,235, AR,El Dorado, El Dorado
+2004,Bill,Rentmeester,2,0.7000,72,230, WI,Beaver Dam, Beaver Dam
+2004,Drew,Steinmetz,2,0.7000,74,233, FL,Jacksonville, Trinity Christian Academy
+2003,Tez,Doolittle,4,0.9000,75,260, AL,Opelika, Opelika
+2003,LeRon,McClain,4,0.9000,73,245, AL,Northport, Tuscaloosa County
+2003,Emeka,Nnoli,4,0.8984,73,225, CA,Sacramento, Natomas
+2003,Farod,Jackson,3,0.8667,73,235, AR,Little Rock, Wilbur D. Mills
+2003,Lance,Ball,3,0.8667,69,221, NJ,Teaneck, Teaneck Sr
+2003,Shawn,Jordan,3,0.8333,71,225, TX,El Paso, Riverside
+2003,Jason,Jude,3,0.8333,73,220, AL,Athens, Athens
+2003,Chris,Alexander,3,0.8333,71,230, TX,Humble, Humble
+2003,Daniel,Jolly,3,0.8333,73,220, TX,San Antonio, Marshall
+2003,Jehuu,Caulcrick,3,0.8000,72,235, NY,Clymer, Clymer Central School
+2003,Breyone,Evans,3,0.8000,72,240, CT,Bristol, Bristol Central
+2003,Josh,Balloon,3,0.8000,72,212, FL,Tampa, Jefferson
+2003,Adam,Gabriel,3,0.8000,72,230, CA,Monrovia, Monrovia
+2003,Mark,Yezovich,3,0.8000,74,232, PA,Pittsburgh, Woodland Hills
+2003,Harold,Stanback,3,0.8000,75,225, MD,District Heights, Bishop McNamara
+2003,Scooter,McDougle,3,0.8000,72,230, OH,Cleveland, Shaw
+2003,Ashley,McConnell,3,0.8000,71,240, GA,Adairsville, Adairsville
+2003,Josh,Williams,2,0.7667,74,218, TX,Sour Lake, Hardin-Jefferson
+2003,Joe,Hall,2,0.7667,73,215, FL,Tampa, Wharton
+2003,Arthur,Boyd,2,0.7667,75,255, OH,Cleveland, Shaker Heights
+2003,Mike,Hull,2,0.7667,71,245, VA,Bealeton, Liberty
+2003,Raifu,Durodoye,2,0.7667,73,225, TX,Denton, Denton
+2003,Brian,Grzelakowski,2,0.7667,72,200, IL,Hinsdale, Hinsdale Central
+2003,Evandall,Williams,2,0.7667,74,230, FL,Havana, East Gadsden
+2003,Ralph,Gunter,2,0.7667,72,180, GA,Hephzibah, Hephzibah
+2003,Sam,Dorvil,2,0.7667,71,225, FL,Fort Lauderdale, Cardinal Gibbons
+2002,Albert,Hardy,4,0.9321,71,225, TX,Galena Park, Galena Park
+2002,Brandon,Snow,4,0.9000,74,225, DE,Newark, Newark
+2002,J.R.,Zwierzynski,3,0.8667,75,220, IL,Joliet, Joliet Catholic Academy
+2002,Regis,Edgerson,3,0.8667,73,220, OH,Cleveland, Garfield Heights
+2002,Tristan,Walker,3,0.8667,73,222, CA,Claremont, Claremont
+2002,Ajenavi,Eziemfe,3,0.8667,74,215, LA,New Orleans, Edna Karr
+2002,Lawrence,Vickers,3,0.8333,73,218, TX,Houston, Forest Brook
+2002,J.D.,Runnels,3,0.8333,73,230, OK,Oklahoma City, Carl Albert
+2002,J.D.,Groves,3,0.8333,75,225, OR,Aurora, North Marion
+2002,Ruben,Mayes,3,0.8333,74,240, TN,Memphis, Ridgeway
+2002,Brandon,Hancock,3,0.8333,73,235, CA,Fresno, Clovis West
+2002,Jason,Snelling,3,0.8333,73,315, VA,Chesterfield, Lloyd C. Bird
+2002,Chris,Wilson,3,0.8333,73,235, MD,Catonsville, Catonsville
+2002,James,Clancy,3,0.8333,73,240, OK,Tulsa, Bishop Kelley
+2002,Brandon,Schweitzer,3,0.8333,75,250, NC,Hendersonville, West Henderson
+2002,Taufui,Vakapuna,3,0.8000,72,215, UT,Salt Lake City, East
+2002,Jackie,Battle,3,0.8000,74,225, TX,Humble, Humble
+2002,Kevin,McLee,3,0.8000,73,235, PA,Uniontown, Uniontown Area
+2002,Dane,Todd,3,0.8000,72,230, NE,Lincoln, Lincoln Southeast
+2002,Reggie,La Mothe,2,0.7667,73,230, TX,Channelview, Channelview
+2002,Brad,Lau,2,0.7667,73,240, ID,Boise, Capital 
+2002,Nic,Luke,2,0.7667,73,210, AL,Phenix City, Central
+2002,AJ,Schneider,2,0.7667,72,235, FL,Tampa, Jesuit
+2002,Marcus,Crawford,2,0.7667,75,210, CA,Newbury Park, Newbury Park
+2002,Travis,Singletary,2,0.7667,73,215, FL,Pompano Beach, Coconut Creek
+2002,Brad,Anderson,2,0.7667,72,225, MD,Ijamsville, Urbana
+2002,David,Herron,2,0.7667,74,235, OH,Warren, Warren G Harding
+2002,Ramon,Guzman,2,0.7667,74,218, NY,Bronx, Dewitt Clinton
+2002,Blair,Phillips,2,0.7667,75,235, LA,Alexandria, Bolton
+2002,Mike,Dowling,2,0.7667,74,230, MD,Baltimore, Gilman
+2002,Bryce,Reed,2,0.7667,73,275, TX,Dallas, W W Samuell
+2002,Oral,Hylton,2,0.7667,72,215, MI,Detroit, Cooley
+2002,Scott,Davis,2,0.7667,71,210, WA,Kennewick, Kamiakin
+2002,Chris,Hickman,2,0.7667,71,248, GA,Marietta, Wheeler
+2002,Bryson,Davis,2,0.7667,74,245, TX,Plainview, Plainview
+2002,Erryn,Cobb,2,0.7667,74,220, IL,Downers Grove, Comm Dist 99 - North
+2002,Ameer,Ismail,2,0.7667,74,215, MI,Holland, West Ottawa Campus
+2002,Jason,Davis,2,0.7667,73,210, MO,Saint Louis, Lindbergh Sr.
+2002,Grant,Miller,2,0.7667,73,231, MA,Peabody, Peabody Veterans Memorial
+2001,Ayo,Saba,4,0.9667,72,255, NJ,Highland Park, Highland Park
+2000,Dustin,Picciotti,4,0.9602,75,235, PA,Doylestown, Central Bucks West
